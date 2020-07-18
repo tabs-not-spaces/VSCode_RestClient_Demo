@@ -1,0 +1,9 @@
+{
+  "rest-client.environmentVariables": {
+    "$shared": {
+      "Auth": "",
+      "ExpiresOn": "",
+      "ContentType": "Application/Json"
+    }
+  }
+}
